@@ -1,3 +1,5 @@
+**中文** | **[English](README_EN.md)**
+
 # TCL 75T7G 电视 Root 过程
 
 > **设备**：TCL 75T7G（V8-T652T01-LF1V379，MStar MT9652，Android 9.0）

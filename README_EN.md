@@ -2,8 +2,8 @@
 
 # Rooting TCL 75T7G TV — Full Process Analysis
 
-> **Device**: TCL 75T7G (V8-T652T01-LF1V379, MStar MT9652, Android 9.0)
-> **Completed**: April 2023
+> **Device**: TCL 75T7G (V8-T652T01-LF1V379, MStar MT9652, Android 9.0)<br>
+> **Completed**: April 2023<br>
 > **Report compiled**: 2026-05-12 (based on original working notes)
 
 > [!CAUTION]
